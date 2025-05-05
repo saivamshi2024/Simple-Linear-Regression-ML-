@@ -27,6 +27,9 @@ These apps demonstrate how to train simple regression models, save them using `p
 | **Pickle**      | Model serialization/deserialization   |
 
 ---
+![Image](https://github.com/user-attachments/assets/c842173e-6207-4285-b2d1-ec2eb43d4c7b)
+
+![Image](https://github.com/user-attachments/assets/bb5d13a0-8eac-40c3-a411-cf45228d6622)
 
 ## 📂 Project Structure
 
